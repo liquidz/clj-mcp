@@ -1,5 +1,7 @@
 = clj-mcp
 
+WARN: This is a personal library.
+
 == Usage
 
 * see src/clj_mcp/example.clj
